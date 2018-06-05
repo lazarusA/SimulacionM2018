@@ -1,9 +1,9 @@
 Simulación matemática 2018
 
 
-Lázaro Alonso 
-Año: 2018
-Email: lazarus.alon@gmail.com
+- Lázaro Alonso 
+- Año: 2018
+- Email: lazarus.alon@gmail.com
 
 ###### `Descripción del curso`
 *Este es un curso básico de simulación utilizando python, por ende vamos a iniciar elaborando programas simples y conforme avancemos el nivel de exigencia aumentará, hasta donde el tiempo nos permita.*
